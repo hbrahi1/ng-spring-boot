@@ -1,4 +1,4 @@
-package be.g00glen00b.model;
+package bra.ng.model;
 
 import javax.persistence.*;
 
